@@ -43,7 +43,7 @@ By using this simulator you will be able to improve your intuition about random 
 
 ## Interested?
 
-- Visit us on shinyapps.io [Flip-a-coin](https://johanfrisk.shinyapps.io/shiny-coin/)
+- Visit us on shinyapps.io [shiny-coin](https://johanfrisk.shinyapps.io/shiny-coin/)
 - fork on Github [shiny-coin](https://github.com/johanfrisk/shiny-coin.git)
 
 
